@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+        background: radial-gradient(#9D5900, #3D2200);
+}
+
+.on {
+        position: absolute;
+        position: relative;
+}
+
+
+
+
+@font-face {
+        font-family: "Lunacy";
+        src: url("https://raw.githubusercontent.com/WebDevSimplified/Mix-Or-Match/master/Assets/Fonts/Lunacy.woff") format("woff"), url("https://raw.githubusercontent.com/WebDevSimplified/Mix-Or-Match/master/Assets/Fonts/Lunacy.woff2") format("woff2")
+}
+
+@font-face {
+        font-family: "Creepy";
+        src: url("https://raw.githubusercontent.com/WebDevSimplified/Mix-Or-Match/master/Assets/Fonts/Creepy.woff?raw=true") format("woff"), url("https://raw.githubusercontent.com/WebDevSimplified/Mix-Or-Match/master/Assets/Fonts/Creepy.woff2?raw=true") format("woff2")
+}
