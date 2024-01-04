@@ -1,5 +1,5 @@
 # memory-game
-- [Demo Project](https://maryamparvaz.github.io/creat-password/)
+- [Demo Project](https://maryamparvaz.github.io/memory-game/)
 
 - Developed by Maryam Parvaz .
 
